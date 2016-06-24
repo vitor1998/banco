@@ -13,14 +13,14 @@ public static void main(String[] args) {
 		minhaConta.transfere(Continha, 700);
 	
 		//boolean consegui = minhaConta.saca(200);
-	//if(consegui){
+	//if(consegui)
 		//System.out.println("Consegue Sacar");
 	//}else{
-	//	System.out.println("Não Consegue Sacar");
+	//	System.out.println("NÃ£o Consegue Sacar");
 	//}
 }
 }
-//segundo objeto referenciado
+
 /*	Conta Continha;
 	Continha = new Conta();
 	Continha.saca(200);
